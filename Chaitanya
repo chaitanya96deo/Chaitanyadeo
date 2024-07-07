@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chaitanya Deo's Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e4e4f4;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Chaitanya Deo</h1>
+        <p>Educator | Explorer | Chess Enthusiast</p>
+    </header>
+
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>My name is Chaitanya Deo. I am an educator by profession and have a passion for exploring the world and playing chess. I believe in lifelong learning and enjoy sharing my knowledge with others.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li><strong>Project 1:</strong> Description of project 1.</li>
+                <li><strong>Project 2:</strong> Description of project 2.</li>
+                <li><strong>Project 3:</strong> Description of project 3.</li>
+            </ul>
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Teaching and Education</li>
+                <li>Curriculum Development</li>
+                <li>Public Speaking</li>
+                <li>Chess Strategy</li>
+                <li>Travel Planning</li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>You can reach me at: <a href="mailto:chaitanya@example.com">chaitanya@example.com</a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Chaitanya Deo. All rights reserved.</p>
+    </footer>
+</body>
+</html>
